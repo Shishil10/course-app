@@ -1,0 +1,32 @@
+.search-container {
+    text-align: center;
+  }
+  
+  .course-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .course-list .list-group-item {
+    background-color: #f8f9fa;
+    margin-bottom: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+  }
+  
+  .course-link {
+    color: #007bff;
+  }
+  
+  .course-link:hover {
+    text-decoration: underline;
+  }
+  
+  .course-name {
+    font-weight: bold;
+  }
+  
+  .instructor {
+    color: #6c757d;
+  }
+  

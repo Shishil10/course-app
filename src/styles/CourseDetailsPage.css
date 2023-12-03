@@ -1,0 +1,40 @@
+.course-details {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-title {
+    color: #007bff;
+  }
+  
+  .details-container {
+    margin-bottom: 20px;
+  }
+  
+  .detail-row {
+    margin-bottom: 10px;
+  }
+  
+  .syllabus-heading {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #007bff;
+  }
+  
+  .syllabus-list .list-group-item {
+    background-color: #f8f9fa;
+    margin-bottom: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+  }
+  
+  .syllabus-header {
+    cursor: pointer;
+  }
+  
+  .syllabus-details {
+    margin-left: 20px;
+  }
+  
